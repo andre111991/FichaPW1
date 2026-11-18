@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "nome": "The Witcher 3: Wild Hunt",
+      "genero": "RPG",
+      "ano": 2015,
+      "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wyy.jpg",
+      "sinopse": "Geralt de RÃ­via embarca numa aventura Ã©pica num mundo aberto repleto de monstros, magia e decisÃµes difÃ­ceis."
+    },
+    {
+      "id": 2,
+      "nome": "Grand Theft Auto V",
+      "genero": "Ação",
+      "ano": 2013,
+      "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.jpg",
+      "sinopse": "TrÃªs criminosos protagonizam uma sÃ©rie de assaltos e missÃµes numa cidade inspirada em Los Angeles."
+    },
+    {
+      "id": 3,
+      "nome": "Minecraft",
+      "genero": "Aventura",
+      "ano": 2011,
+      "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8fu7.jpg",
+      "sinopse": "Um mundo aberto onde os jogadores podem explorar, construir estruturas e sobreviver utilizando blocos."
+    },
+    {
+      "id": 4,
+      "nome": "Age of Empires IV",
+      "genero": "Estratégia",
+      "ano": 2021,
+      "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39z5.jpg",
+      "sinopse": "Jogo de estratÃ©gia em tempo real onde os jogadores desenvolvem civilizaÃ§Ãµes e participam em batalhas histÃ³ricas."
+    },
+    {
+      "id": 5,
+      "nome": "Elden Ring",
+      "genero": "RPG",
+      "ano": 2022,
+      "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.jpg",
+      "sinopse": "Uma aventura num mundo de fantasia onde o jogador enfrenta inimigos poderosos e explora territÃ³rios misteriosos."
+    },
+    {
+      "id": 6,
+      "nome": "Red Dead Redemption 2",
+      "genero": "Ação",
+      "ano": 2018,
+      "capa": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg",
+      "sinopse": "Arthur Morgan vive os Ãºltimos dias do Velho Oeste americano, enfrentando conflitos entre lealdade, sobrevivÃªncia e liberdade."
+    }
+  ]
